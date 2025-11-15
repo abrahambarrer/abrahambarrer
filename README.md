@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm Abraham,
 
-I'm a second year software engineering undergraduate at Universidad Veracruazana.
+I'm a second year software engineering undergraduate at Universidad Veracruzana.
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 - :bulb: I'm interested in **Data Science and Machine Learning**
 - 📚 I’m currently studying on my own:
